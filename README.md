@@ -1,6 +1,6 @@
 # Customer_Churn_Analysis
 
-This project explores customer churn in a telecom company using data analysis and machine learning. The goal is to identify patterns that lead to churn and build a predictive model to proactively retain at-risk customers.
+This project was part of my effort to understand real-world applications of EDA and classification models in a business context, focusing on customer behavior. It explores customer churn in a telecom company using data analysis and machine learning. The goal is to identify patterns that lead to churn and build a predictive model to proactively retain at-risk customers.
 
 ## Project Overview
 - Dataset: Telco Customer Churn Dataset
